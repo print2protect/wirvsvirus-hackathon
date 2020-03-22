@@ -10,8 +10,13 @@ This repository serves as a collection of the output of all our hackathon materi
 
 At the moment the idea is defined only in german speech in a [google docs document](https://docs.google.com/document/d/15slopwhoA8_hV5Ji-oie93dJxsXuA-0LBNdZodec8Ck)
 
+## Become a maker or taker
+
+You are interested to produce or order products which help to avoid spreading of COVID-19 alias Corona? You can preregister here: [print2protect Typeform](https://info743967.typeform.com/to/o8l610)
+
 ## Important links:
 - [#WirVsVirus Hackathon](https://wirvsvirushackathon.org/)
 - [print2protect on Devpost](https://devpost.com/software/05_hilfsmittelverteilung_3d-druck-platform)
 - [Our twitter account](https://twitter.com/print2protect)
 - [print2protect.de](https://print2protect.de)
+- [Typeform Preregistration](https://info743967.typeform.com/to/o8l610)
