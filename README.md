@@ -15,8 +15,11 @@ At the moment the idea is defined only in german speech in a [google docs docume
 You are interested to produce or order products which help to avoid spreading of COVID-19 alias Corona? You can preregister here: [print2protect Typeform](https://info743967.typeform.com/to/o8l610)
 
 ## Important links:
+- [print2protect.de](https://print2protect.de)
 - [#WirVsVirus Hackathon](https://wirvsvirushackathon.org/)
 - [print2protect on Devpost](https://devpost.com/software/05_hilfsmittelverteilung_3d-druck-platform)
-- [Our twitter account](https://twitter.com/print2protect)
-- [print2protect.de](https://print2protect.de)
-- [Typeform Preregistration](https://info743967.typeform.com/to/o8l610)
+
+## Social
+- [Twitter](https://twitter.com/print2protect)
+- [Instagram](https://www.instagram.com/print2protect/)
+- [YouTube](https://www.youtube.com/channel/UCxXyWoUsl9IgdItm7jcRisw)
